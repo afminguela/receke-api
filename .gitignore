@@ -14,3 +14,4 @@ dist-ssr
 coverage
 *.local
 
+.vercel
