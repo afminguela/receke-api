@@ -478,253 +478,253 @@
       "id": "1",
       "name": "Patata",
       "category": "🥬 Vegetales",
-      "image": "https://receke.vercel.app/src/assets/media/patata.png"
+      "image": "https://receke.vercel.app/receke/receke/src/assets/media/patata.png"
     },
     {
       "id": "2",
       "name": "Huevo",
       "category": "🥚 Huevos",
-      "image": "https://receke.vercel.app/src/assets/media/huevo.png"
+      "image": "./public/media/huevo.png"
     },
     {
       "id": "3",
       "name": "Leche",
       "category": "🥛 Lácteos",
-      "image": "https://receke.vercel.app/src/assets/media/leche.png"
+      "image": "./public/media/leche.png"
     },
     {
       "id": "4",
       "name": "Arroz",
       "category": "🌾 Granos",
-      "image": "https://receke.vercel.app/src/assets/media/arroz.png"
+      "image": "./public/media/arroz.png"
     },
     {
       "id": "5",
       "name": "Azúcar",
       "category": "Otros",
-      "image": "https://receke.vercel.app/src/assets/media/harina.png"
+      "image": "./public/media/harina.png"
     },
     {
       "id": "6",
       "name": "Limón",
       "category": "🥬 Vegetales",
-      "image": "https://receke.vercel.app/src/assets/media/limon.png"
+      "image": "./public/media/limon.png"
     },
     {
       "id": "7",
       "name": "Canela",
       "category": "Otros",
-      "image": "https://receke.vercel.app/src/assets/media/especias.png"
+      "image": "./public/media/especias.png"
     },
     {
       "id": "8",
       "name": "Tomate",
       "category": "🥬 Vegetales",
-      "image": "https://receke.vercel.app/src/assets/media/tomate.png"
+      "image": "./public/media/tomate.png"
     },
     {
       "id": "9",
       "name": "Ajo",
       "category": "🥬 Vegetales",
-      "image": "https://receke.vercel.app/src/assets/media/ajo.png"
+      "image": "./public/media/ajo.png"
     },
     {
       "id": "10",
       "name": "Pan",
       "category": "🌾 Granos",
-      "image": "https://receke.vercel.app/src/assets/media/pan.png"
+      "image": "./public/media/pan.png"
     },
     {
       "id": "11",
       "name": "Aceite de oliva",
       "category": "Otros",
-      "image": "https://receke.vercel.app/src/assets/media/aceite.png"
+      "image": "./public/media/aceite.png"
     },
     {
       "id": "12",
       "name": "Sal",
       "category": "Otros",
-      "image": "https://receke.vercel.app/src/assets/media/especias.png"
+      "image": "./public/media/especias.png"
     },
     {
       "id": "13",
       "name": "Pollo",
       "category": "🥩 Carnes",
-      "image": "https://receke.vercel.app/src/assets/media/pollo.png"
+      "image": "./public/media/pollo.png"
     },
     {
       "id": "14",
       "name": "Zanahoria",
       "category": "🥬 Vegetales",
-      "image": "https://receke.vercel.app/src/assets/media/zanahoria.png"
+      "image": "./public/media/zanahoria.png"
     },
     {
       "id": "15",
       "name": "Cebolla",
       "category": "🥬 Vegetales",
-      "image": "https://receke.vercel.app/src/assets/media/cebolla.png"
+      "image": "./public/media/cebolla.png"
     },
     {
       "id": "16",
       "name": "Vino blanco",
       "category": "Otros",
-      "image": "https://receke.vercel.app/src/assets/media/vino.png"
+      "image": "./public/media/vino.png"
     },
     {
       "id": "17",
       "name": "Almendra",
       "category": "🌾 Granos",
-      "image": "https://receke.vercel.app/src/assets/media/frutoseco.png"
+      "image": "./public/media/frutoseco.png"
     },
     {
       "id": "18",
       "name": "Avellana",
       "category": "🌾 Granos",
-      "image": "https://receke.vercel.app/src/assets/media/frutoseco.png"
+      "image": "./public/media/frutoseco.png"
     },
     {
       "id": "19",
       "name": "Harina de trigo",
       "category": "🌾 Granos",
-      "image": "https://receke.vercel.app/src/assets/media/harina.png"
+      "image": "./public/media/harina.png"
     },
     {
       "id": "20",
       "name": "Levadura",
       "category": "Otros",
-      "image": "https://receke.vercel.app/src/assets/media/levadura.png"
+      "image": "./public/media/levadura.png"
     },
     {
       "id": "21",
       "name": "Puerro",
       "category": "🥬 Vegetales",
-      "image": "https://receke.vercel.app/src/assets/media/puerro.png"
+      "image": "./public/media/puerro.png"
     },
     {
       "id": "22",
       "name": "Caldo de ave",
       "category": "Otros",
-      "image": "https://receke.vercel.app/src/assets/media/caldo.png"
+      "image": "./public/media/caldo.png"
     },
     {
       "id": "23",
       "name": "Pimienta",
       "category": "Otros",
-      "image": "https://receke.vercel.app/src/assets/media/especias.png"
+      "image": "./public/media/especias.png"
     },
     {
       "id": "24",
       "name": "Pimentón",
       "category": "Otros",
-      "image": "https://receke.vercel.app/src/assets/media/especias.png"
+      "image": "./public/media/especias.png"
     },
     {
       "id": "25",
       "name": "Romero",
       "category": "Otros",
-      "image": "https://receke.vercel.app/src/assets/media/especias.png"
+      "image": "./public/media/especias.png"
     },
     {
       "id": "26",
       "name": "Cilantro",
       "category": "Otros",
-      "image": "https://receke.vercel.app/src/assets/media/especias.png"
+      "image": "./public/media/especias.png"
     },
     {
       "id": "27",
       "name": "Orégano",
       "category": "Otros",
-      "image": "https://receke.vercel.app/src/assets/media/especias.png"
+      "image": "./public/media/especias.png"
     },
     {
       "id": "28",
       "name": "Comino",
       "category": "Otros",
-      "image": "https://receke.vercel.app/src/assets/media/especias.png"
+      "image": "./public/media/especias.png"
     },
     {
       "id": "29",
       "name": "Pasta",
       "category": "🌾 Granos",
-      "image": "https://receke.vercel.app/src/assets/media/pasta.png"
+      "image": "./public/media/pasta.png"
     },
     {
       "id": "30",
       "name": "Tomate cherry",
       "category": "🥬 Vegetales",
-      "image": "https://receke.vercel.app/src/assets/media/tomate.png"
+      "image": "./public/media/tomate.png"
     },
     {
       "id": "31",
       "name": "Calabacín",
       "category": "🥬 Vegetales",
-      "image": "https://receke.vercel.app/src/assets/media/calabacin.png"
+      "image": "./public/media/calabacin.png"
     },
     {
       "id": "32",
       "name": "Champiñón",
       "category": "🥬 Vegetales",
-      "image": "https://receke.vercel.app/src/assets/media/setas.png"
+      "image": "./public/media/setas.png"
     },
     {
       "id": "33",
       "name": "Caldo de carne",
       "category": "Otros",
-      "image": "https://receke.vercel.app/src/assets/media/caldo.png"
+      "image": "./public/media/caldo.png"
     },
     {
       "id": "34",
       "name": "Perejil",
       "category": "Otros",
-      "image": "https://receke.vercel.app/src/assets/media/especias.png"
+      "image": "./public/media/especias.png"
     },
     {
       "id": "35",
       "name": "Ternera picada",
       "category": "🥩 Carnes",
-      "image": "https://receke.vercel.app/src/assets/media/carne.png"
+      "image": "public/media/carne.png"
     },
     {
       "id": "36",
       "name": "Solomillo de cerdo",
       "category": "🥩 Carnes",
-      "image": "https://receke.vercel.app/src/assets/media/carne.png"
+      "image": "public/media/carne.png"
     },
     {
       "id": "37",
       "name": "Whisky",
       "category": "Otros",
-      "image": "https://receke.vercel.app/src/assets/media/vino.png"
+      "image": "./public/media/vino.png"
     },
     {
       "id": "38",
       "name": "Cerdo picado",
       "category": "🥩 Carnes",
-      "image": "https://receke.vercel.app/src/assets/media/carne.png"
+      "image": ".public/media/carne.png"
     },
     {
       "id": "39",
       "name": "Brócoli",
       "category": "🥬 Carnes",
-      "image": "https://receke.vercel.app/src/assets/media/brocoli.png"
+      "image": "./public/media/brocoli.png"
     },
     {
       "id": "40",
       "name": "Bacon",
       "category": "🥩 Carnes",
-      "image": "https://receke.vercel.app/src/assets/media/bacon.png"
+      "image": "./public/media/bacon.png"
     },
     {
       "id": "41",
       "name": "Queso",
       "category": "🥛 Lácteos",
-      "image": "https://receke.vercel.app/src/assets/media/queso.png"
+      "image": "./public/media/queso.png"
     },
     {
       "id": "42",
       "name": "Albahaca",
       "category": "Otros",
-      "image": "https://receke.vercel.app/src/assets/media/especias.png"
+      "image": "./public/media/especias.png"
     }
   ],
   "categories": [
