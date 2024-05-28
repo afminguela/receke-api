@@ -1,0 +1,760 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Tortilla de patatas",
+      "instructions": [
+        "Romper los huevos",
+        "Batir los huevos",
+        "Pelar las patatas",
+        "Cocer las patatas",
+        "Añadir el huevo"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Truita_de_patates.png",
+      "ingredients": [
+        {
+          "ingredient": "Patata",
+          "quantity": "4"
+        },
+        {
+          "ingredient": "Huevo",
+          "quantity": "3"
+        }
+      ],
+      "evaluation": [
+        3,
+        1,
+        3,
+        3
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Arroz con leche",
+      "instructions": [
+        "Introducir la leche en una cacerola amplia y añadir el arroz y la rama de canela, junto con un par de trozos de la piel del limón.",
+        "Calentar y, cuando comenzar a hervir, cocer el conjunto a fuego suave durante unos 50 minutos.",
+        "Remover a menudo para que no agarrar a la base y el arroz soltar lentamente su almidón.",
+        "A continuación agregar el azúcar y cocer durante diez minutos más a la misma temperatura, es decir, a fuego bajo.",
+        "Continuar removiendo para ayudar a que el azúcar se disuelva y se incorpore al resto de ingredientes.",
+        "Retirar la rama de canela y repartir el arroz con leche en cuencos (o donde se quiera servir).",
+        "Dejar atemperar antes de espolvorear con un poco de canela molida."
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Arroz_con_leche_espolvoreado_con_canela_molida.jpg",
+      "ingredients": [
+        {
+          "ingredient": "Leche",
+          "quantity": "1 l"
+        },
+        {
+          "ingredient": "Arroz",
+          "quantity": "100 g"
+        },
+        {
+          "ingredient": "Azúcar",
+          "quantity": "70 g"
+        },
+        {
+          "ingredient": "Limón",
+          "quantity": "1"
+        },
+        {
+          "ingredient": "Canela",
+          "quantity": "1 rama y 1 piza de canela molida"
+        }
+      ],
+      "evaluation": [
+        5,
+        2,
+        3,
+        4,
+        3,
+        4,
+        3,
+        3,
+        4,
+        4
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Salmorejo",
+      "instructions": [
+        "Limpiar los tomates, triturarlos y colarlos para quitarles la piel y las pepitas.",
+        "Añadir el pan (previamente puesto en remojo ya sea en agua o en el tomate triturado), el aceite de oliva virgen extra, los ajos y la sal y triturar de nuevo.",
+        "Servir en cuencos individuales.",
+        "Opcional: Puedes decorarlo con huevo duro picado y trocitos de jamón."
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Spanish_tapas_%286922915138%29.jpg",
+      "ingredients": [
+        {
+          "ingredient": "Tomate",
+          "quantity": "1 kg"
+        },
+        {
+          "ingredient": "Ajo",
+          "quantity": "1 diente"
+        },
+        {
+          "ingredient": "Pan",
+          "quantity": "200 g"
+        },
+        {
+          "ingredient": "Aceite de oliva",
+          "quantity": "100 g"
+        },
+        {
+          "ingredient": "Sal",
+          "quantity": "10 g"
+        }
+      ],
+      "evaluation": []
+    },
+    {
+      "id": "4",
+      "title": "Pollo al horno",
+      "instructions": [
+        "Cortar el tomate, zanahoria, puerro y cebolla. Sofreírlos aparte con un poco de caldo de pollo.",
+        "En un recipiente de horno, agregar el pollo, las verduras, el vino blanco y los frutos secos triturados.",
+        "Hornear durante 1 hora y 15 minutos."
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Muslo_de_pollo_al_ast_en_horno.jpg",
+      "ingredients": [
+        {
+          "ingredient": "Pollo",
+          "quantity": "1 pollo entero"
+        },
+        {
+          "ingredient": "Tomate",
+          "quantity": "1"
+        },
+        {
+          "ingredient": "Zanahoria",
+          "quantity": "1"
+        },
+        {
+          "ingredient": "Cebolla",
+          "quantity": "1"
+        },
+        {
+          "ingredient": "Sal",
+          "quantity": "1 pizca"
+        },
+        {
+          "ingredient": "Vino blanco",
+          "quantity": "1 chorro"
+        },
+        {
+          "ingredient": "Aceite de oliva",
+          "quantity": "1 chorro"
+        },
+        {
+          "ingredient": "Almendra",
+          "quantity": "1 puñado"
+        },
+        {
+          "ingredient": "Avellana",
+          "quantity": "1 puñado"
+        }
+      ],
+      "evaluation": []
+    },
+    {
+      "id": "5",
+      "title": "Pizza casera",
+      "instructions": [
+        "Mezclar 240 ml de agua tibia con la levadura y el azúcar.",
+        "Mezclar el resto de los ingredientes y amasar hasta que la masa no se pegue en las manos y forme una bola.",
+        "Dejar crecer la masa en un bol tapado con un trapo húmedo en una zona caliente.",
+        "Dividir la masa en bolas más pequeñas (salen 4).",
+        "Estirar la masa sobre papel de horno.",
+        "Aliñar con tomate: 1 tsp de sal, 1/2 tsp de azúcar, orégano al gusto, albahaca (menos cantidad que el orégano), y lata de tomate triturado Apis.",
+        "Agregar queso mozzarella (de barra de carnicería) y otros ingredientes al gusto.",
+        "Meter la piedra de horno en el horno y precalentar a máxima potencia (mínimo 250°C).",
+        "Cocer la pizza entre 5 y 8 minutos."
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg",
+      "ingredients": [
+        {
+          "ingredient": "Sal",
+          "quantity": "1 cucharada"
+        },
+        {
+          "ingredient": "Azúcar",
+          "quantity": "Media cucharada"
+        },
+        {
+          "ingredient": "Aceite de oliva",
+          "quantity": "1 chorreón"
+        },
+        {
+          "ingredient": "Harina de trigo",
+          "quantity": "350-400 g"
+        },
+        {
+          "ingredient": "Levadura",
+          "quantity": "1 sobre (7 g)"
+        }
+      ],
+      "evaluation": [
+        3
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Vichyssoise",
+      "instructions": [
+        "Poner en el vaso el puerro cortado en rodajas y las patatas cortadas y trocear durante 4 segundos en velocidad 4.",
+        "Agregar el aceite y sofreír durante 10 minutos a 120°C.",
+        "Incorporar el caldo de ave y la leche, y cocinar durante 25 minutos a 90°C.",
+        "Triturar la mezcla durante 1 minuto en velocidad progresiva 5-10 (cuidado de no quemarse, se puede poner un trapo sobre la tapa del vaso de la thermomix para evitar salpicaduras).",
+        "Agregar la sal y la pimienta y triturar.",
+        "Servir caliente.",
+        "Opcional: Se puede servir con un poco de nata líquida y cebollino picado."
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Vichyssoise_krema.jpg",
+      "ingredients": [
+        {
+          "ingredient": "Puerro",
+          "quantity": "3-4 (grandes)"
+        },
+        {
+          "ingredient": "Patata",
+          "quantity": "200 g"
+        },
+        {
+          "ingredient": "Aceite de oliva",
+          "quantity": "50 g"
+        },
+        {
+          "ingredient": "Leche",
+          "quantity": "500 g"
+        },
+        {
+          "ingredient": "Caldo de ave",
+          "quantity": "500 g"
+        },
+        {
+          "ingredient": "Sal",
+          "quantity": "Al gusto"
+        },
+        {
+          "ingredient": "Pimienta",
+          "quantity": "Al gusto"
+        }
+      ],
+      "evaluation": []
+    },
+    {
+      "id": "7",
+      "title": "Pasta con setas y calabacín",
+      "instructions": [
+        "Cocer la pasta en agua ligeramente salada el tiempo que indique el fabricante y escurrirla muy bien.",
+        "Despuntar el calabacín, lavarlo y cortarlo en medias lunas. Lavar los tomatitos. Limpiar los champiñones, lavarlos, secarlos y cortarlos en láminas. Mezclar todas las especias.",
+        "Pelar la cebolla, cortarla en juliana y saltearla 2 minutos en 3 cucharadas de aceite. Agregar las verduras, remover y cocinar 4 minutos.",
+        "Incorporar la pasta, las especias y el romero. Remover y servir con unas hojas de albahaca lavadas."
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Zucchini_oil_pasta.jpg",
+      "ingredients": [
+        {
+          "ingredient": "Pasta",
+          "quantity": "400 g"
+        },
+        {
+          "ingredient": "Tomate cherry",
+          "quantity": "200 g"
+        },
+        {
+          "ingredient": "Aceite de oliva",
+          "quantity": "50 g"
+        },
+        {
+          "ingredient": "Cebolla",
+          "quantity": "1"
+        },
+        {
+          "ingredient": "Calabacín",
+          "quantity": "100 g"
+        },
+        {
+          "ingredient": "Champiñón",
+          "quantity": "100 g"
+        },
+        {
+          "ingredient": "Orégano",
+          "quantity": "1 cucharadita"
+        },
+        {
+          "ingredient": "Romero",
+          "quantity": "1 cucharadita"
+        },
+        {
+          "ingredient": "Cilantro",
+          "quantity": "1/2 cucharadita"
+        },
+        {
+          "ingredient": "Albahaca",
+          "quantity": "1/2 cucharadita"
+        },
+        {
+          "ingredient": "Comino",
+          "quantity": "1/2 cucharadita"
+        },
+        {
+          "ingredient": "Pimienta",
+          "quantity": "1/2 cucharadita"
+        },
+        {
+          "ingredient": "Pimentón",
+          "quantity": "1/2 cucharadita"
+        },
+        {
+          "ingredient": "Sal",
+          "quantity": "Una pizca"
+        }
+      ],
+      "evaluation": []
+    },
+    {
+      "id": "8",
+      "title": "Solomillo al whisky",
+      "instructions": [
+        "En primer lugar, preparar el solomillo. Limpiar la grasa más gruesa y cortar en medallones de unos 2 centímetros aproximadamente.",
+        "Después, echar un poco de pimienta molida en cada trozo de carne.",
+        "También pelar unos dientes de ajos (unos 7 a 8 dientes por cada solomillo de unos 400 gr) y dejarlos enteros.",
+        "Cocinar los ajos a fuego suave unos minutos. Cuando comiencen a coger un poco de color, separarlos a un lado de la cazuela, subir el fuego y agregar la carne para sellarla 1 minuto por cada lado.",
+        "Entonces es cuando incorporar el zumo de 1 limón grande, dar una vuelta para que se integre con el whisky y añadir el caldo de carne o agua.",
+        "Dejar cocer a fuego fuerte unos 3 o 4 minutos hasta que reduzca y se quede en una salsa un poco más trabada. Apartar del fuego y servir. Es importante que la carne no cueza demasiado para evitar que se seque."
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Solomillo_al_whisky.JPG",
+      "ingredients": [
+        {
+          "ingredient": "Solomillo de cerdo",
+          "quantity": "500 gr"
+        },
+        {
+          "ingredient": "Ajo",
+          "quantity": "2 dientes"
+        },
+        {
+          "ingredient": "Sal",
+          "quantity": "Al gusto"
+        },
+        {
+          "ingredient": "Aceite de oliva",
+          "quantity": "50 g"
+        },
+        {
+          "ingredient": "Limón",
+          "quantity": "1"
+        },
+        {
+          "ingredient": "Whisky",
+          "quantity": "150 g"
+        },
+        {
+          "ingredient": "Caldo de carne",
+          "quantity": "1 pastilla"
+        }
+      ],
+      "evaluation": [
+        3
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Albóndigas con mantón de Manila",
+      "instructions": [
+        "Primero hacer las albóndigas.Poner la miga de pan en un bol. Verter la leche y dejar que la miga se empape.",
+        "Poner las carnes picadas en un bol. Agregar 1 diente de ajo pelado y picadito. Escurrir la miga de pan y agregarla. Añadir también sal, pimienta, un poco de perejil picado y el huevo. Amasar y formar bolitas. Freírlas en una sartén con aceite. Retirarlas a un plato y reservarlas.",
+        "Para preparar la salsa. Pelar y picar la cebolla, los otros dos dientes de ajo y la zanahoria. Ponerlos a pochar en una sartén con un chorrito de aceite. Picar el pimiento y añadirlo. Sazonar y rehogar las verduras hasta que se doren un poco. Rallar encima el tomate y cocinar todo durante 6-8 minutos. Verter el vino y darle un hervor. Desmenuzar la pastilla de sabor y verter un vaso de agua. Cocinar los ingredientes de la salsa durante 10-12 minutos.",
+        "Pasar la salsa por el pasapurés y ponerla en una tartera. Introducir las albóndigas y cocinarlas 2-3 minutos. Servir y adornar con unas hojas de perejil.",
+        "Consejo: si la salsa quedara muy ligera, se puede espesar agregando un poco de harina de maíz refinada diluida en agua fría."
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Albondigas_La_Nacional.jpg",
+      "ingredients": [
+        {
+          "ingredient": "Ternera picada",
+          "quantity": "500 g"
+        },
+        {
+          "ingredient": "Cerdo picado",
+          "quantity": "100 g"
+        },
+        {
+          "ingredient": "Aceite de oliva",
+          "quantity": "50 g"
+        },
+        {
+          "ingredient": "Cebolla",
+          "quantity": "1"
+        },
+        {
+          "ingredient": "Zanahoria",
+          "quantity": "1"
+        },
+        {
+          "ingredient": "Tomate",
+          "quantity": "1"
+        },
+        {
+          "ingredient": "Huevo",
+          "quantity": "1"
+        },
+        {
+          "ingredient": "Ajo",
+          "quantity": "3 dientes"
+        },
+        {
+          "ingredient": "Vino blanco",
+          "quantity": "100 ml"
+        },
+        {
+          "ingredient": "Pan",
+          "quantity": "15 g de miga"
+        },
+        {
+          "ingredient": "Caldo de carne",
+          "quantity": "1 pastilla"
+        },
+        {
+          "ingredient": "Pimienta",
+          "quantity": "1 pizca"
+        },
+        {
+          "ingredient": "Perejil",
+          "quantity": "1 pizca"
+        },
+        {
+          "ingredient": "Sal",
+          "quantity": "Una pizca"
+        }
+      ],
+      "evaluation": []
+    },
+    {
+      "id": "10",
+      "title": "Brócoli asegurado",
+      "instructions": [
+        "Pelar, patatas y zanahoria y cortarlas en trozos medianos.",
+        "Cortar los arbolitos del brócoli.",
+        "Cocer las patatas y la zanahoria con agua que les cubra y dos pastillas de avecrem durante 15 minutos.",
+        "Echar los arbolitos del brócoli y dejar que cuezan hasta que queden blanditos los troncos.",
+        "A parte, freír beicon y rallar el queso.",
+        "Escurrir la verdura y añadir el bacon y el queso y remover."
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Broccoli_salad.jpg",
+      "ingredients": [
+        {
+          "ingredient": "Brócoli",
+          "quantity": "1 árbol"
+        },
+        {
+          "ingredient": "Patata",
+          "quantity": "3"
+        },
+        {
+          "ingredient": "Zanahoria",
+          "quantity": "1"
+        },
+        {
+          "ingredient": "Caldo de ave",
+          "quantity": "1 pastilla"
+        },
+        {
+          "ingredient": "Bacon",
+          "quantity": "1 sobre"
+        },
+        {
+          "ingredient": "Queso",
+          "quantity": "150 g"
+        }
+      ],
+      "evaluation": []
+    }
+  ],
+  "ingredients": [
+    {
+      "id": "1",
+      "name": "Patata",
+      "category": "🥬 Vegetales",
+      "image": "http://localhost:5173/src/assets/media/patata.png"
+    },
+    {
+      "id": "2",
+      "name": "Huevo",
+      "category": "🥚 Huevos",
+      "image": "http://localhost:5173/src/assets/media/huevo.png"
+    },
+    {
+      "id": "3",
+      "name": "Leche",
+      "category": "🥛 Lácteos",
+      "image": "http://localhost:5173/src/assets/media/leche.png"
+    },
+    {
+      "id": "4",
+      "name": "Arroz",
+      "category": "🌾 Granos",
+      "image": "http://localhost:5173/src/assets/media/arroz.png"
+    },
+    {
+      "id": "5",
+      "name": "Azúcar",
+      "category": "Otros",
+      "image": "http://localhost:5173/src/assets/media/harina.png"
+    },
+    {
+      "id": "6",
+      "name": "Limón",
+      "category": "🥬 Vegetales",
+      "image": "http://localhost:5173/src/assets/media/limon.png"
+    },
+    {
+      "id": "7",
+      "name": "Canela",
+      "category": "Otros",
+      "image": "http://localhost:5173/src/assets/media/especias.png"
+    },
+    {
+      "id": "8",
+      "name": "Tomate",
+      "category": "🥬 Vegetales",
+      "image": "http://localhost:5173/src/assets/media/tomate.png"
+    },
+    {
+      "id": "9",
+      "name": "Ajo",
+      "category": "🥬 Vegetales",
+      "image": "http://localhost:5173/src/assets/media/ajo.png"
+    },
+    {
+      "id": "10",
+      "name": "Pan",
+      "category": "🌾 Granos",
+      "image": "http://localhost:5173/src/assets/media/pan.png"
+    },
+    {
+      "id": "11",
+      "name": "Aceite de oliva",
+      "category": "Otros",
+      "image": "http://localhost:5173/src/assets/media/aceite.png"
+    },
+    {
+      "id": "12",
+      "name": "Sal",
+      "category": "Otros",
+      "image": "http://localhost:5173/src/assets/media/especias.png"
+    },
+    {
+      "id": "13",
+      "name": "Pollo",
+      "category": "🥩 Carnes",
+      "image": "http://localhost:5173/src/assets/media/pollo.png"
+    },
+    {
+      "id": "14",
+      "name": "Zanahoria",
+      "category": "🥬 Vegetales",
+      "image": "http://localhost:5173/src/assets/media/zanahoria.png"
+    },
+    {
+      "id": "15",
+      "name": "Cebolla",
+      "category": "🥬 Vegetales",
+      "image": "http://localhost:5173/src/assets/media/cebolla.png"
+    },
+    {
+      "id": "16",
+      "name": "Vino blanco",
+      "category": "Otros",
+      "image": "http://localhost:5173/src/assets/media/vino.png"
+    },
+    {
+      "id": "17",
+      "name": "Almendra",
+      "category": "🌾 Granos",
+      "image": "http://localhost:5173/src/assets/media/frutoseco.png"
+    },
+    {
+      "id": "18",
+      "name": "Avellana",
+      "category": "🌾 Granos",
+      "image": "http://localhost:5173/src/assets/media/frutoseco.png"
+    },
+    {
+      "id": "19",
+      "name": "Harina de trigo",
+      "category": "🌾 Granos",
+      "image": "http://localhost:5173/src/assets/media/harina.png"
+    },
+    {
+      "id": "20",
+      "name": "Levadura",
+      "category": "Otros",
+      "image": "http://localhost:5173/src/assets/media/levadura.png"
+    },
+    {
+      "id": "21",
+      "name": "Puerro",
+      "category": "🥬 Vegetales",
+      "image": "http://localhost:5173/src/assets/media/puerro.png"
+    },
+    {
+      "id": "22",
+      "name": "Caldo de ave",
+      "category": "Otros",
+      "image": "http://localhost:5173/src/assets/media/caldo.png"
+    },
+    {
+      "id": "23",
+      "name": "Pimienta",
+      "category": "Otros",
+      "image": "http://localhost:5173/src/assets/media/especias.png"
+    },
+    {
+      "id": "24",
+      "name": "Pimentón",
+      "category": "Otros",
+      "image": "http://localhost:5173/src/assets/media/especias.png"
+    },
+    {
+      "id": "25",
+      "name": "Romero",
+      "category": "Otros",
+      "image": "http://localhost:5173/src/assets/media/especias.png"
+    },
+    {
+      "id": "26",
+      "name": "Cilantro",
+      "category": "Otros",
+      "image": "http://localhost:5173/src/assets/media/especias.png"
+    },
+    {
+      "id": "27",
+      "name": "Orégano",
+      "category": "Otros",
+      "image": "http://localhost:5173/src/assets/media/especias.png"
+    },
+    {
+      "id": "28",
+      "name": "Comino",
+      "category": "Otros",
+      "image": "http://localhost:5173/src/assets/media/especias.png"
+    },
+    {
+      "id": "29",
+      "name": "Pasta",
+      "category": "🌾 Granos",
+      "image": "http://localhost:5173/src/assets/media/pasta.png"
+    },
+    {
+      "id": "30",
+      "name": "Tomate cherry",
+      "category": "🥬 Vegetales",
+      "image": "http://localhost:5173/src/assets/media/tomate.png"
+    },
+    {
+      "id": "31",
+      "name": "Calabacín",
+      "category": "🥬 Vegetales",
+      "image": "http://localhost:5173/src/assets/media/calabacin.png"
+    },
+    {
+      "id": "32",
+      "name": "Champiñón",
+      "category": "🥬 Vegetales",
+      "image": "http://localhost:5173/src/assets/media/setas.png"
+    },
+    {
+      "id": "33",
+      "name": "Caldo de carne",
+      "category": "Otros",
+      "image": "http://localhost:5173/src/assets/media/caldo.png"
+    },
+    {
+      "id": "34",
+      "name": "Perejil",
+      "category": "Otros",
+      "image": "http://localhost:5173/src/assets/media/especias.png"
+    },
+    {
+      "id": "35",
+      "name": "Ternera picada",
+      "category": "🥩 Carnes",
+      "image": "http://localhost:5173/src/assets/media/carne.png"
+    },
+    {
+      "id": "36",
+      "name": "Solomillo de cerdo",
+      "category": "🥩 Carnes",
+      "image": "http://localhost:5173/src/assets/media/carne.png"
+    },
+    {
+      "id": "37",
+      "name": "Whisky",
+      "category": "Otros",
+      "image": "http://localhost:5173/src/assets/media/vino.png"
+    },
+    {
+      "id": "38",
+      "name": "Cerdo picado",
+      "category": "🥩 Carnes",
+      "image": "http://localhost:5173/src/assets/media/carne.png"
+    },
+    {
+      "id": "39",
+      "name": "Brócoli",
+      "category": "🥬 Carnes",
+      "image": "http://localhost:5173/src/assets/media/brocoli.png"
+    },
+    {
+      "id": "40",
+      "name": "Bacon",
+      "category": "🥩 Carnes",
+      "image": "http://localhost:5173/src/assets/media/bacon.png"
+    },
+    {
+      "id": "41",
+      "name": "Queso",
+      "category": "🥛 Lácteos",
+      "image": "http://localhost:5173/src/assets/media/queso.png"
+    },
+    {
+      "id": "42",
+      "name": "Albahaca",
+      "category": "Otros",
+      "image": "http://localhost:5173/src/assets/media/especias.png"
+    }
+  ],
+  "categories": [
+    {
+      "id": "c1",
+      "name": "🥛 Lácteos"
+    },
+    {
+      "id": "c2",
+      "name": "🥚 Huevos"
+    },
+    {
+      "id": "c3",
+      "name": "🥩 Carnes"
+    },
+    {
+      "id": "c4",
+      "name": "🐟 Pescados"
+    },
+    {
+      "id": "c5",
+      "name": "🥬 Vegetales"
+    },
+    {
+      "id": "c6",
+      "name": "🌾 Granos"
+    },
+    {
+      "id": "c7",
+      "name": "Otros"
+    }
+  ]
+}
