@@ -725,6 +725,12 @@
       "name": "Albahaca",
       "category": "Otros",
       "image": "especias.png"
+    },
+    {
+      "id": "43",
+      "name": "Sardina",
+      "category": "🐟 Pescados",
+      "image": "sardina.png"
     }
   ],
   "categories": [
