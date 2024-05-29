@@ -471,6 +471,75 @@
         }
       ],
       "evaluation": []
+    },
+    {
+      "id": "11",
+      "title": "Sardinas a la plancha",
+      "instructions": [
+        "Secar las sardinas con sal durante 1 hora para que cojan sabor.",
+        "Calentar la plancha y agregar el aceite.",
+        "Cortar aletas y cola a las sardinas",
+        "Agregar las sardinas y cocinar durante 3 o 4 minutos.",
+        "Retirar y servir con el jugo del limón."
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sardinas_a_la_plancha-_C%C3%A1diz_-_2009.jpg/1024px-Sardinas_a_la_plancha-_C%C3%A1diz_-_2009.jpg",
+      "ingredients": [
+        {
+          "ingredient": "Sardina",
+          "quantity": "250 g"
+        },
+        {
+          "ingredient": "Limón",
+          "quantity": "1 rodaja"
+        },
+        {
+          "ingredient": "Aceite de oliva",
+          "quantity": "1 chorrito"
+        }
+      ],
+      "evaluation": []
+    },
+    {
+      "id": "12",
+      "title": "Crepes",
+      "instructions": [
+        "Echar la harina en una fuente y añadir poco a poco los ingredientes",
+        "Mezclar todo bien hasta conseguir una mezcla homogénea y líquida.",
+        "Untar un sartén con el aceite o mantequilla y dejar a fuego medio hasta que se derrita.",
+        "Hechar porciones de mezcla con un cucharón de sopa en la sartén",
+        "Utilizar el mismo cucharón para repartir la mezcla de forma uniforme por toda la base de la sartén.",
+        "Dejar cocinar con fuego suave por un minuto, hasta que se dore",
+        "Despegar la crepe con ayuda de una espátula y dar la vuelta para dorar la otra cara.",
+        "Retirar cuando se dore y rellenar al gusto."
+      ],
+      "image": "https://cdn0.recetasgratis.net/es/posts/4/8/7/masa_de_crepes_facil_43784_600.webp",
+      "ingredients": [
+        {
+          "ingredient": "Leche",
+          "quantity": "1 taza"
+        },
+        {
+          "ingredient": "Harina de trigo",
+          "quantity": "1 taza"
+        },
+        {
+          "ingredient": "Aceite de oliva",
+          "quantity": "2 cucharadas"
+        },
+        {
+          "ingredient": "Huevo",
+          "quantity": "2"
+        },
+        {
+          "ingredient": "Azúcar",
+          "quantity": "2 cucharadas"
+        },
+        {
+          "ingredient": "Sal",
+          "quantity": "1 pizca"
+        }
+      ],
+      "evaluation": []
     }
   ],
   "ingredients": [
